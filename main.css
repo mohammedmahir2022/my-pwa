@@ -1,0 +1,29 @@
+body {
+    background-color: tan;
+}
+
+h1,
+p {
+    text-align: center;
+    color: red;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+a {
+    color: aqua;
+    display: block;
+    background-color: green;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: blueviolet;
+    color: orange;
+}
+
+nav ul {
+    display: flex;
+}
