@@ -14,7 +14,7 @@ h1 {
     font-size: 32px;
 }
 
-@media only screen and (min-width: 700px) {
+@media only screen and (min-width: 900px) {
     h1 {
         color: green;
         font-size: 20px;
