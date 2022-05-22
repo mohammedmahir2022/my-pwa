@@ -1,4 +1,6 @@
 body {
+    margin: 0;
+    padding: 20px;
     background-color: tan;
 }
 
@@ -10,6 +12,13 @@ p {
 
 h1 {
     font-size: 32px;
+}
+
+@media only screen and (min-width: 700px) {
+    h1 {
+        color: green;
+        font-size: 20px;
+    }
 }
 
 a {
